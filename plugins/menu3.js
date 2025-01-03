@@ -3,13 +3,13 @@
     ＳＵＢＺＥＲＯ ＷＨＡＴＳＡＰＰ ＭＤ ＢＯＴ
     
     ⭐ＤＥＶＥＬＯＰＥＲ
-     ＭＲ ＦＲＡＮＫ 
+     Mr Ntando 
      
     ⭐ ＭＹ ＴＥＡＭ
      ＸＥＲＯ ＣＯＤＥＲＳ
      
     ⭐ ＯＵＲ ＷＥＢＳＩＴＥ
-     https://github.com/ZwSyntax/SUBZERO-MD
+     https://github.com/mrntandoofc/SUBZERO-MD
 
 © ＴＲＹ ＤＥＣＲＹＰＴＩＮＧ ＩＦ ＹＯＵ ＣＡＮ⚠
 
@@ -44,12 +44,12 @@ async(conn, mek, m,{from, l, quoted, body, isCmd, umarmd, args, q, isGroup, send
 try{
 let madeMenu = `*◈⁠⁠⁠⁠▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭◈*
 
-*Makadii, I am SubZero Md*
+*שלום (Shalom), I am SubZero Md crested by Mr Ntando*
    *${pushname}*
      
 *◈⁠⁠⁠⁠▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭◈*
 
-*DEVELOPED BY ZERO CODERS👨🏻‍💻*
+*DEVELOPED BY Ntando CODERS👨🏻‍💻*
 
 *✱━━━━━━━▢ © 2025 ▢━━━━━━✱*
 
@@ -170,7 +170,7 @@ let madeMenu = `*◈⁠⁠⁠⁠▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭◈
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-> *https://github.com/ZwSyntax/SUBZERO-MD*
+> *https://github.com/mrntandoofc/SUBZERO-MD*
 ━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 > *MADE IN ZIMBABWE*
