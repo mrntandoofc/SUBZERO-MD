@@ -9,7 +9,7 @@
      ＸＥＲＯ ＣＯＤＥＲＳ
      
     ⭐ ＯＵＲ ＷＥＢＳＩＴＥ
-     https://github.com/ZwSyntax/SUBZERO-MD
+     https://github.com/Lightmker/SUBZERO-MD
 
 © ＴＲＹ ＤＥＣＲＹＰＴＩＮＧ ＩＦ ＹＯＵ ＣＡＮ⚠
 
@@ -23,7 +23,7 @@ const config = require('../config');
 const {cmd , commands} = require('../command')
 cmd({
     pattern: "about",
-    alias: ["darrell"],
+    alias: ["ntando"],
     react: "🧠",
     desc: "get owner dec",
     category: "main",
@@ -34,36 +34,36 @@ try{
 let madeMenu = `━━━━━━━━━━━━━━━━━━━━━━━━
 
 *👋 HELLO ${pushname}*\n\n *I AM SUBZERO MD*\n\n
-I am  WhatsApp Based Multi Device Bot Created By Darrell Mucheri T from Zimbabwe.\nMy sole purpose is to remove the burden or cost of purchusing data bundle to download Songs, Apps, Videos & Movies by  using whatsapp  bundles.
-\n\n *For More Visit*: https://mrfrankinc.vercel.app/
+I am  WhatsApp Based Multi Device Bot Created By Ntandoyenkosi Chisaya from Zimbabwe.\nMy sole purpose is to remove the burden or cost of purchusing data bundle to download Songs, Apps, Videos & Movies by  using whatsapp  bundles.
+\n\n *For More Visit*: https://msha.ke/jesussalvation
 
 ━━━━━━━━━━━━━━━━━━━━━━━━
 
 > *SOURCE CODE* 
-⛓️ https://github.com/mrfrank-ofc/SUBZERO-MD
+⛓️ https://github.com/Lightmker/SUBZERO-MD
 
 > *FOLLOW OWNER* 
-🛠️ https://github.com/mrfrank-ofc/
+🛠️ https://github.com/Lightmker/
 
 > *OWNER'S WHATSAPP*
-🪪 https://wa.me/18062212660/?text=SubZero+Fan+Here
+🪪 https://wa.me/263714138336/?text=SubZero+Fan+Here
 
 > * 2ND DEVELOPER * 
-🪪 https://wa.me/265993702468/?text=SubZero+Fan+Here
+🪪 https://wa.me/263714138336/?text=SubZero+Fan+Here
 
 > *SUPPORT CHANNEL* 
 🔌 https://whatsapp.com/channel/0029VagQEmB002T7MWo3Sj1D
 
 > *FOLLOW INSTAGRAM* 
-🎀https://instagram.com/mrfrankofc/
+🎀https://instagram.com/Lightmker/
 
 > *FOLLOW OWNER* 
-🎊 https://youtube.com/mrfr4nk/
+🎊 https://youtube.com/mrntando/
 
 ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
  *RELEASE DATE* - *15 December 2024*
  
-> *MR FRANK OFC*
+> *Mr Ntando ofc*
 
 ━━━━━━━━━━━━━━━━━━━━━━━━
 `
