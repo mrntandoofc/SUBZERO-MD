@@ -9,7 +9,7 @@
      ＸＥＲＯ ＣＯＤＥＲＳ
      
     ⭐ ＯＵＲ ＷＥＢＳＩＴＥ
-     https://github.com/ZwSyntax/SUBZERO-MD
+     https://github.com/mrntandoofc/SUBZERO-MD
 
 © ＴＲＹ ＤＥＣＲＹＰＴＩＮＧ ＩＦ ＹＯＵ ＣＡＮ⚠
 
