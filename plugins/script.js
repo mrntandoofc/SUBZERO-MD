@@ -36,11 +36,11 @@ let repo =`
 *⟣━━━━━━━━━━━━━━━━━━━⟢*
  *BOT OWNER:*
  
-> *Darrell Mucheri ( Mr Frank OFC )*
+> *Ntandoyenkosi Chisaya(Mr Ntando Ofc )*
 
  *SUBZERO REPO:*
  
-> *https://github.com/mrfrank-ofc/SUBZERO-MD*
+> *https://github.com/Lightmker/SUBZERO-MD*
 
  *SUPPORT GROUP:*
  
@@ -48,10 +48,10 @@ let repo =`
 
  *DEVELOPER NUMBER:*
  
-> *wa.me/+263718647303/*
+> *wa.me/+263714138336/*
 
 *⟣━━━━━━━━━━━━━━━━━━━⟢*
-> *CREATED BY MR FRANK*
+> *CREATED BY Mr Ntando*
 *⟣━━━━━━━━━━━━━━━━━━━⟢*
 `
 await conn.sendMessage(from, { text: repo ,
@@ -69,7 +69,7 @@ externalAdReply: {
 title: 'SUBZERO MD',
 body: `${pushname}`,
 mediaType: 1,
-sourceUrl: "https://github.com/mrfrank-ofc/SUBZERO-MD" ,
+sourceUrl: "https://github.com/Lightmker/SUBZERO-MD" ,
 thumbnailUrl: "https://i.postimg.cc/m2jtqrBC/Screenshot-20241216-090753-Video-Maker.jpg" ,
 renderLargerThumbnail: true,
 showAdAttribution: true
