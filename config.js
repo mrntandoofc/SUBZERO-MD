@@ -10,9 +10,9 @@ $$\   $$ |$$ |  $$ |$$ |  $$ | $$  _/   $$   ____|$$ |      $$ |  $$ |
  \______/  \______/ \_______/ \________| \_______|\__|       \______/
 
 Project Name : SubZero MD
-Creator      : Darrell Mucheri ( Mr Frank OFC )
-Repo         : https//github.com/mrfrank-ofc/SUBZERO-MD
-Support      : wa.me/18062212660
+Creator      : Ntandoyenkosi ( Mr Ntando Ofc )
+Repo         : https//github.com/mrntandoofc/SUBZERO-MD
+Support      : wa.me/263714138336
 */
 
 const fs = require('fs');
@@ -22,7 +22,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "enter your subzero md session id here",
+SESSION_ID: process.env.SESSION_ID || "SUBZERO-MD~WMBFhILI#szrLyujEhYYB9KDEijqNPWDJXdVQgmjnAUDRrhaer3c",
  
 PREFIX: process.env.PREFIX || ".",
 // Enter Your Desired Prefix
@@ -39,10 +39,10 @@ CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️�
 DELETE_LINKS: process.env.DELETE_LINKS || "false",
 // automatic delete links witho remove member 
 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "263719647303",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "263714138336",
 // Set Owner Name
 
-OWNER_NAME: process.env.OWNER_NAME || "ᴍʀ ꜰʀᴀɴᴋ ᴏꜰᴄ",
+OWNER_NAME: process.env.OWNER_NAME || "Mr Ntando ofc",
 // Set Footer
 
 DESCRIPTION: process.env.DESCRIPTION || "*© Gᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Sᴜʙᴢᴇʀᴏ*",
