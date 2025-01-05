@@ -26,12 +26,12 @@ function convertToBool(text, fault = 'true') {
 //--------------------------Mr Ntando---------------------------------------
 module.exports = {
 
-SESSION_ID: process.env.SESSION_ID || "Subzero~WAYDxJ4b#xnbX8zYcry9SFGQhBVQ6BYcX7PIvmw3yXsKghOn5MNs",
+SESSION_ID: process.env.SESSION_ID || "SUBZERO-MD~bBYz0Twb#1gw8aHKcopeSolNSY9YRIS9DFH_V6tsNFTYOeu18Atw",
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true", //TRUE OR FALSE
 OWNER_NUMBER: process.env.OWNER_NUMBER || "18062212660",
-MODE: process.env.MODE || "public",  // PRIVATE OR PUBLIC
+MODE: process.env.MODE || "private",  // PRIVATE OR PUBLIC
 AUTO_VOICE: process.env.AUTO_VOICE || "true",
-AUTO_STICKER: process.env.AUTO_STICKER || "false",
+AUTO_STICKER: process.env.AUTO_STICKER || "true",
 AUTO_REPLY: process.env.AUTO_REPLY || "false",
 ALIVE_IMG: process.env.ALIVE_IMG || "https://i.postimg.cc/m2jtqrBC/Screenshot-20241216-090753-Video-Maker.jpg", // DO NOT CHANGE
 ALIVE_MSG: process.env.ALIVE_MSG || "sᴜʙᴢᴇʀᴏ ᴀɪ ɪs ᴀʟɪᴠᴇ. ᴋᴇᴇᴘ sᴜᴘᴘᴏʀᴛɪɴɢ *Ntando Cᴏᴅᴇʀs❄️*\n\n> ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ Mr Ntando",
